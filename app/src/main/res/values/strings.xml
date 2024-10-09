@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">THE BEST MOVIE</string>
+
+    <string name="sinopsis">Sinopsis</string>
+    <string name="genre">Genre</string>
+    <string name="films_name">Nama Film</string>
+    <string name="about">About</string>
+    <string name="myname">Muhammad Zaqly Luluang</string>
+    <string name="mygmail">muhammadzaqly01@gmail.com</string>
+
+
+
+    <string-array name="data_name">
+        <item>The Shawsank Redemption</item>
+        <item>Dark</item>
+        <item>Stranger Things</item>
+        <item>Fight Club</item>
+        <item>1899</item>
+        <item>Alice In Borderland</item>
+        <item>Money Heist</item>
+        <item>Girl From Nowhere</item>
+        <item>Interstellar</item>
+        <item>Se7en</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama, Misteri, Fiksi Kriminal</item>
+        <item>Misteri, Fiksi Ilmiah</item>
+        <item>Horor, Misteri, Drama, Fiksi Ilmiah</item>
+        <item>Misteri, Thriller, Drama</item>
+        <item>Misteri, Fiksi Ilmiah </item>
+        <item>Drama, Fiksi Ilmiah</item>
+        <item>Kriminal, Thriller, Misteri</item>
+        <item>Misteri, Fantasi, Thriller</item>
+        <item>Fiksi Ilmiah, Drama, Petualangan </item>
+        <item>Misteri, Thriller, Kriminal</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>Dua orang budak dipenjarakan selama beberapa tahun, menemukan pelipur lara dan tindakan penebusan dengan kesusilaan umum. Mereka menunjukan pentingnya "Harapan" yang terkadang kita semua membutuhkan. </item>
+        <item>Dark bercerita tentang buntut hilangnya seorang anak yang menyingkap rahasia dan hubungan tersembunyi antara empat keluarga yang tidak kenal satu sama lain dan mereka perlahan mengungkap persekongkolan perjalanan waktu lintas tiga generasi.</item>
+        <item>Berlatar pada tahun 1980-an, di kota fiksi Hawkins, Indiana, serial ini berfokus di sekitar banyak peristiwa supernatural yang terjadi di kota, khususnya hubungan mereka dengan realitas alternatif yang disebut "Upside Down", hal tersebut muncul akibat fasilitas eksperimen anak pemerintah Amerika Serikat. </item>
+        <item>Film yang mengisahkan seorang pria yang terjebak dalam kehidupan sebagai masyarakat pekerja "kerah putih" yang terlibat klub pertarungan ilegal yang dirintis oleh penjual sabun yang bernama Tyler Durden</item>
+        <item>Peristiwa misterius mengubah arah kapal imigran yang menuju New York pada tahun 1899, para penumpang yang kebingungan dihadapkan pada sebuah teka-teki mencengangkan.</item>
+        <item>Alice in Borderland menceritakan sejumlah anak muda yang bertahan hidup di sebuah dunia yang penuh gim. Mereka terperangkap di dalamnya dan harus menyelesaikan serentetan permainan maut untuk mendapatkan visa alias nyawa.</item>
+        <item>Seorang dalang kriminal yang dikenal dengan sebutan "The Professor" memiliki rencana untuk melakukan pencurian terbesar yang pernah tercatat dalam sejarah -- mencetak miliaran euro di Royal Mint of Spain . Untuk membantunya melaksanakan rencana ambisius tersebut, ia merekrut delapan orang dengan kemampuan tertentu dan tidak akan kehilangan apa pun.</item>
+        <item>Mengisahkan tentang Nanno, seorang gadis misterius yang pindah sekolah dan membongkar kejahatan dan kebohongan yang terjadi di sekolah-sekolah tersebut.</item>
+        <item>Sebuah tim penjelajah antar galaksi harus melewati lubang cacing dan terjebak di dimensi waktu ruang angkasa dalam upaya untuk menjamin kelangsungan hidup umat manusia di planet bumi.</item>
+        <item>Seorang pembunuh berantai mulai membunuhi orang-orang sesuai dengan tujuh dosa besar. Dua detektif: satu baru bergabung dan satunya akan pensiun, harus bekerjasama untuk menangkap pelakunya.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/poster_the_shawshank_r</item>
+        <item>@drawable/poster_dark</item>
+        <item>@drawable/poster_stranger_things</item>
+        <item>@drawable/poster_fight_club</item>
+        <item>@drawable/poster_1899</item>
+        <item>@drawable/poster_alice_in_borderland</item>
+        <item>@drawable/poster_money_heist</item>
+        <item>@drawable/poster_girl_from_nowhere</item>
+        <item>@drawable/poster_interstellar</item>
+        <item>@drawable/poster_se7en</item>
+    </integer-array>
+
+
+</resources>
